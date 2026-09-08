@@ -9,7 +9,7 @@ I'm a passionate learner and problem solver with hands-on experience in web deve
 ## 📋 About Me
 
 - 🎓 **B.Tech Student** at St. Mary's Engineering College (Current | CGPA: 7.5)
-- 📍 **Location:** Adilabad, Telangana - 504001, India
+- 📍 **Location:** tosham (m)gudithnoor (d)Adilabad, Telangana - 504308, India
 - 🏆 **Athlete:** 1st Prize Winner at National Level Kabaddi Tournament
 - 🚀 **Driven by:** Problem-solving, learning new technologies, and collaboration
 
@@ -83,10 +83,11 @@ GPA: **9.2/10**
 
 ## 📞 Contact Me
 
-- 📧 **Email:** 
+- 📧 **Email:**
   - badevamshi12@gmail.com
   - 24bh1a6611@stmarysgroup.com
-- 📍 **Location:** Adilabad, Telangana - 504001, India
+  - 6305128840
+- 📍 **Location:** tosham (m)gudithnoor (d)Adilabad, Telangana - 504308, India
 - 💼 **GitHub:** [vamshi12384](https://github.com/vamshi12384)
 
 ---
